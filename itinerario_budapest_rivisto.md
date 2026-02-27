@@ -29,22 +29,23 @@
 
 ## Mercoledì 4 Marzo – Buda completa + Crociera
 
-*Zona: Collina del Castello + Collina Gellért (percorso circolare)*
+*Zona: Collina del Castello + Collina Gellért (percorso ottimizzato per tramonto)*
 
 | Orario | Attività |
 |--------|----------|
-| 09:00 | Castello di Buda (funicolare o a piedi da Clark Ádám tér) |
-| 10:00 | Galleria Nazionale Ungherese (facoltativa, dentro il castello) |
-| 11:30 | Passeggiata verso nord → **Chiesa di Mattia** |
-| 12:00 | **Bastione dei Pescatori** 🏰 (luce mattutina bellissima + meno folla!) |
-| 12:30 | Statua Buda e Pest (proprio lì accanto) |
-| 13:00 | Pranzo: zona Buda o scendi verso Vegan Garden |
-| 14:30 | Chiesa nella Roccia (Collina Gellért) |
-| 15:30 | Citadella (cima Gellért, vista panoramica) |
-| 17:00 | Scendi a Pest, tempo libero |
+| 09:00 | Chiesa nella Roccia (Collina Gellért - mattina suggestiva) |
+| 10:00 | Citadella (vista panoramica, luce mattutina) |
+| 11:30 | Scendi e attraversa → Castello di Buda |
+| 12:30 | Galleria Nazionale Ungherese (facoltativa, dentro il castello) |
+| 13:30 | Pranzo: Vegan Garden (scendi verso Ponte Elisabetta) |
+| 15:00 | Risali verso nord della collina del Castello |
+| 15:30 | Chiesa di Mattia |
+| 16:00 | Statua Buda e Pest |
+| **17:15** | **Bastione dei Pescatori al tramonto** 🏰🌅 (tramonto ~17:45) |
+| 18:15 | Scendi verso Pest, tempo libero |
 | **19:15** | **Crociera sul Danubio** 🚢 (partenza da Pest) |
 
-**🗺️ Percorso logico:** Castello → Galleria → Chiesa Mattia → Bastione Pescatori → Statua → (pranzo) → Chiesa Roccia → Citadella → giù verso Danubio
+**🗺️ Percorso logico:** Chiesa Roccia → Citadella → Castello → Galleria → (pranzo) → Chiesa Mattia → Statua → Bastione TRAMONTO → Crociera
 
 **🌱 Ristoranti vegani zona Buda:**
 - **Vegan Garden** - Semmelweis u. 7 (Pest, vicino Ponte Elisabetta)
